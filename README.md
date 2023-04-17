@@ -18,7 +18,13 @@ Now Learn Advanced Installation Of Kubernetes on Ubuntu Servers In AWS EC2 with 
 ![image](https://user-images.githubusercontent.com/128013315/232401440-764dc6e4-d02b-4e3b-8c52-9fc5aa5d14eb.png)
 
 https://medium.com/@DevOpsfreak/22270c5720a6?source=friends_link&sk=8780492099c119538d3a59623b902c90
------------------------------------------
+--------------------------------------
+Top 12 Kubernetes Installation Errors You Can’t Afford to Miss
+-------------------------------------
+![image](https://user-images.githubusercontent.com/128013315/232403219-1f023b2a-83f8-4a5c-9853-5ac99b40d746.png)
+
+https://medium.com/@DevOpsfreak/top-12-kubernetes-installation-errors-you-cant-afford-to-miss-b52d7cda1a52
+---------------------------------------
 Thank You 
 -------------
 That My journey I hope that your Kubernetes journey has been an enriching experience, and that these challenges have helped enhance your skills in container orchestration and DevOps. Remember to share your knowledge and skills with others, as we can all contribute to our personal and collective growth by learning and exploring new ideas together. Thank you for embarking on this journey with me, and I look forward to sharing more insights and challenges with you in the future. Happy Kuberneting!
