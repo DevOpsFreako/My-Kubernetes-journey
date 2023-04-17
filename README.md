@@ -19,7 +19,7 @@ Now Learn Advanced Installation Of Kubernetes on Ubuntu Servers In AWS EC2 with 
 
 https://medium.com/@DevOpsfreak/22270c5720a6?source=friends_link&sk=8780492099c119538d3a59623b902c90
 --------------------------------------
-Top 12 Kubernetes Installation Errors You Can’t Afford to Miss
+Now Common Errors You May Encountered During Kubernetes Installation and How to Resolve Them
 -------------------------------------
 ![image](https://user-images.githubusercontent.com/128013315/232403219-1f023b2a-83f8-4a5c-9853-5ac99b40d746.png)
 
